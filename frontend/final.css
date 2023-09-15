@@ -1,0 +1,70 @@
+#h{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.CITY{
+    border: gray;
+
+}
+.btn-success{
+    background-color: rgb(149, 220, 42);
+    border: rgb(149, 220, 42);
+}
+.card-2{
+    text-align: left;
+    color: rgb(149, 149, 149);
+}
+.card-title{
+    font-size: xx-large;
+}
+#FORTEEN{
+    font-size: 70PX;
+}
+#forteen{
+    text-align: left;
+}
+.text{
+    text-align: left;
+}
+.card-3{
+    color: rgb(149, 149, 149);
+    font-size:x-large ;
+}
+#gray{
+    color: rgb(149, 149, 149);
+    font-weight: bold;
+}
+.but-1{
+    color: #000dff;
+    border: 1px;
+    border-radius: 10px;
+    margin-left: 10px;
+    height: 50px;
+    
+}
+#image{
+    height: 70px;
+    width: 70px;
+    margin-right: 20px;
+    margin-bottom: 13px;
+}
+#p{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 0px;
+    margin-top: -200px;
+}
+.form-check{
+    float: right;
+}
+
+@media only screen and (max-width: 600px) {
+    #p{
+        display: none;
+    }
+}
+@media only screen and (max-width: 820px) {
+    #p{
+        display: none;
+    }
+}
